@@ -11,7 +11,6 @@
 /* ************************************************************************** */
 
 #include "libft.h"
-#include <stdio.h>
 
 static int		count_substrings(char const *s, char c);
 static size_t	add_string_to_arr(char **arr, int i, char *s, char c);
