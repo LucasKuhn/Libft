@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: lalexk-ku <lalex-ku@42sp.org.br>           +#+  +:+       +#+         #
+#    By: lalex-ku <lalex-ku@42sp.org.br>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/07/29 19:39:15 by lalexk-ku         #+#    #+#              #
-#    Updated: 2021/08/17 20:46:22 by lalexk-ku        ###   ########.fr        #
+#    Updated: 2022/03/23 16:38:17 by lalex-ku         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -31,6 +31,7 @@ SRCS	=	ft_isalpha.c \
 			ft_memcmp.c \
 			ft_strnstr.c \
 			ft_atoi.c \
+			ft_atol.c \
 			ft_calloc.c \
 			ft_strdup.c \
 			ft_substr.c \
