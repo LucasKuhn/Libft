@@ -17,7 +17,7 @@ static int	ft_isspace(char c);
 long	ft_atol(const char *str)
 {
 	long	number;
-	int	sign;
+	int		sign;
 
 	number = 0;
 	sign = 1;
